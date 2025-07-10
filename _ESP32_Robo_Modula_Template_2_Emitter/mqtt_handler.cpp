@@ -4,9 +4,9 @@
 WiFiClientSecure espClient;
 PubSubClient client(espClient);
 
-const char* mqtt_server = "0f8d1257e8e8466da2a04a322c11012b.s1.eu.hivemq.cloud";
-const char* mqtt_username = "CR22081";
-const char* mqtt_password = "Timisoara1900";
+const char* mqtt_server = "0f8d1257e8e22c11012b.s1.eu.hivemq.cloud";
+const char* mqtt_username = "CR1";
+const char* mqtt_password = "Tim00";
 const int mqtt_port = 8883;
 
 void setupMQTT() {

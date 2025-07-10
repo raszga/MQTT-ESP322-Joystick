@@ -10,8 +10,8 @@ ServoController myServo("SteeringServo", 25, 50, 16);
 
 
 
-const char* ssid = "Linksys10889";
-const char* password = "01140257561358";
+const char* ssid = "Lin889";
+const char* password = "01161358";
 
 void setup_wifi() {
   WiFi.mode(WIFI_STA);

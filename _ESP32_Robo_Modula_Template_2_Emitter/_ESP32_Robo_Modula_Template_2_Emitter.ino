@@ -2,7 +2,7 @@
 #include "hSensor.h"
 
 const char* ssid = "Linksys10889";
-const char* password = "01140257561358";
+const char* password = "01141358";
 
 void setup_wifi() {
   WiFi.mode(WIFI_STA);

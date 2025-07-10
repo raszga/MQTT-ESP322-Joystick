@@ -1,8 +1,8 @@
 #include "mqtt_handler.h"
 #include "hSensor.h"
 
-const char* ssid = "Linksys10889";
-const char* password = "01141358";
+const char* ssid = "L89";
+const char* password = "01158";
 
 void setup_wifi() {
   WiFi.mode(WIFI_STA);
